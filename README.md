@@ -140,10 +140,3 @@ Sistem puanı, aşağıdaki ağırlıklı ortalama ile hesaplanır:
 | Öğrenci No | [255815015] |
 | Bölüm | Yapayzeka Operatörlüğü |
 | Okul | Kastamonu Ü. Tosya MYO |
-
-
----
-
-## 📄 Lisans
-
-Bu proje eğitim amaçlı geliştirilmiştir. MIT Lisansı ile dağıtılmaktadır.
