@@ -122,21 +122,16 @@ Sistem puanı, aşağıdaki ağırlıklı ortalama ile hesaplanır:
 
 ---
 
-## 👤 Geliştirici
+## 👤 Geliştiriciler
 
-| Alan | Bilgi |
-|---|---|
 | Ad Soyad | [Ömer Aslan] |
 | Öğrenci No | [255815028] |
-| Bölüm | Yapayzeka Operatörlüğü |
-| Okul | Kastamonu Ü. Tosya MYO |
+
 |---
 | Ad Soyad | [Kadir Baran Akbaba] |
 | Öğrenci No | [255815022] |
-| Bölüm | Yapayzeka Operatörlüğü |
-| Okul | Kastamonu Ü. Tosya MYO |
+
 ----
 | Ad Soyad | [Emirhan Çukurkaş] |
 | Öğrenci No | [255815015] |
-| Bölüm | Yapayzeka Operatörlüğü |
-| Okul | Kastamonu Ü. Tosya MYO |
+
