@@ -11,9 +11,9 @@ mekanizmasıyla sağlanır; böylece modüller birbirinden bağımsız test edil
 
 | Dosya | Sorumluluk |
 |---|---|
-| `monitor.py` | Donanım verisi toplama sınıfları |
-| `analyzer.py` | Veri analizi ve puanlama sınıfları |
-| `main.py` | GUI yönetimi ve uygulama döngüsü |
+| `monitor.py` | Donanım verisi toplama sınıfları | Ömer Aslan.        |
+| `analyzer.py` | Veri analizi ve puanlama sınıfları | Emirhan Çukurkaş|
+| `main.py` | GUI yönetimi ve uygulama döngüsü |Baran Akbaba           |
 
 ---
 
